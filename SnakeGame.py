@@ -154,7 +154,7 @@ while True:
            
    time.sleep(delay)
 s.mainloop()
-#this is the end of our snake game
+#this is the end of snake game
 
        
           
